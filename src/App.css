@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+  margin-top: 40px;
+  
+ 
+}
+.App p .para{
+ color: rgb(44, 44, 44);
+ padding-left: 80px;
+}
+
+.display{
+  
+  height: 100px;
+  background-color:white;
+  width: 100%;
+  
+  border-radius: 25px;
+  border: grey 1px solid;
+
+}
+.display p{
+  
+
+  font-size: 40px;
+  padding-top: 20px;
+  margin: auto;
+ 
+}
+.body{
+  
+  width: 250px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-right:20px;
+  padding-top: 15px;
+  margin:auto;
+  
+  border-radius: 31px;
+  border-radius: 31px;
+  background: linear-gradient(145deg, #e6e6e6, #ffffff);
+  box-shadow:  24px 24px 48px #dedede,
+               -24px -24px 48px #ffffff;
+}
+.buttons{
+  display: block;
+  margin-top: 30px;
+}
+.buttons button{
+     width: 25%;
+     height: 60px;
+     border-radius: 20%;
+     
+     font-size: large;
+}
+
+.App img{
+  height: 30px;
+  width: 25px;
+  padding-bottom: 10px;
+}
